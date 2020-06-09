@@ -2,7 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="Z:/JB/git/project.autosar.test.anthi.reg/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Jean-BaptisteTalvand/.p2/pool/plugins/com.sodius.mdw.metamodel.excel.io.xls_2.3.0.I20171221/lib/poi-ooxml-3.10-beta2-20130904.jar">
 		<accessrules>
 			<accessrule kind="accessible" pattern="com/sodius/mdw/metamodel/excel/io/xls/*"/>
@@ -135,6 +134,5 @@
 			<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
 		</accessrules>
 	</classpathentry>
-	<classpathentry kind="lib" path="Z:/JB/git/project.autosar.test.anthi.reg/jxl.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
