@@ -3,43 +3,43 @@
 
 Days              : 0
 Hours             : 0
-Minutes           : 7
-Seconds           : 13
-Milliseconds      : 528
-Ticks             : 4335286072
-TotalDays         : 0.00501769221296296
-TotalHours        : 0.120424613111111
-TotalMinutes      : 7.22547678666667
-TotalSeconds      : 433.5286072
-TotalMilliseconds : 433528.6072
+Minutes           : 6
+Seconds           : 50
+Milliseconds      : 393
+Ticks             : 4103938669
+TotalDays         : 0.0047499290150463
+TotalHours        : 0.113998296361111
+TotalMinutes      : 6.83989778166667
+TotalSeconds      : 410.3938669
+TotalMilliseconds : 410393.8669
 
 ====================================== END of process: C:\Users\Public\Documents\Model\ModelToMigrate\ModelToMigrate.bat =================================
 ====================================== Start of process: C:\Users\Public\Documents\Model\NameSpaceModel\TestModel\Import\lunchExportImport.bat =================================
 Days              : 0
 Hours             : 0
 Minutes           : 1
-Seconds           : 37
-Milliseconds      : 356
-Ticks             : 973568621
-TotalDays         : 0.00112681553356481
-TotalHours        : 0.0270435728055556
-TotalMinutes      : 1.62261436833333
-TotalSeconds      : 97.3568621
-TotalMilliseconds : 97356.8621
+Seconds           : 36
+Milliseconds      : 594
+Ticks             : 965940003
+TotalDays         : 0.00111798611458333
+TotalHours        : 0.02683166675
+TotalMinutes      : 1.609900005
+TotalSeconds      : 96.5940003
+TotalMilliseconds : 96594.0003
 
 ====================================== END of process: C:\Users\Public\Documents\Model\NameSpaceModel\TestModel\Import\lunchExportImport.bat =================================
 ====================================== Start of process: C:\Users\Public\Documents\Model\NewsChecks\NewsChecks.bat =================================
 Days              : 0
 Hours             : 0
 Minutes           : 3
-Seconds           : 59
-Milliseconds      : 186
-Ticks             : 2391865476
-TotalDays         : 0.00276836281944444
-TotalHours        : 0.0664407076666667
-TotalMinutes      : 3.98644246
-TotalSeconds      : 239.1865476
-TotalMilliseconds : 239186.5476
+Seconds           : 50
+Milliseconds      : 69
+Ticks             : 2300696769
+TotalDays         : 0.00266284348263889
+TotalHours        : 0.0639082435833333
+TotalMinutes      : 3.834494615
+TotalSeconds      : 230.0696769
+TotalMilliseconds : 230069.6769
 
 ====================================== END of process: C:\Users\Public\Documents\Model\NewsChecks\NewsChecks.bat =================================
 ====================================== Start of process: C:\Users\Public\Documents\Model\RhDeltaTraining2016_rpy\ECUExtract.bat =================================
@@ -47,27 +47,27 @@ Days              : 0
 Hours             : 0
 Minutes           : 0
 Seconds           : 1
-Milliseconds      : 25
-Ticks             : 10258056
-TotalDays         : 1.187275E-05
-TotalHours        : 0.000284946
-TotalMinutes      : 0.01709676
-TotalSeconds      : 1.0258056
-TotalMilliseconds : 1025.8056
+Milliseconds      : 36
+Ticks             : 10364119
+TotalDays         : 1.19955081018519E-05
+TotalHours        : 0.000287892194444444
+TotalMinutes      : 0.0172735316666667
+TotalSeconds      : 1.0364119
+TotalMilliseconds : 1036.4119
 
 ====================================== END of process: C:\Users\Public\Documents\Model\RhDeltaTraining2016_rpy\ECUExtract.bat =================================
 ====================================== Start of process: C:\Users\Public\Documents\Model\RiA_Performance_Test\RiA_Performance_Test.bat =================================
 Days              : 0
 Hours             : 0
 Minutes           : 2
-Seconds           : 5
-Milliseconds      : 822
-Ticks             : 1258222049
-TotalDays         : 0.00145627551967593
-TotalHours        : 0.0349506124722222
-TotalMinutes      : 2.09703674833333
-TotalSeconds      : 125.8222049
-TotalMilliseconds : 125822.2049
+Seconds           : 8
+Milliseconds      : 14
+Ticks             : 1280149775
+TotalDays         : 0.00148165483217593
+TotalHours        : 0.0355597159722222
+TotalMinutes      : 2.13358295833333
+TotalSeconds      : 128.0149775
+TotalMilliseconds : 128014.9775
 
 ====================================== END of process: C:\Users\Public\Documents\Model\RiA_Performance_Test\RiA_Performance_Test.bat =================================
 ====================================== Start of process: C:\Users\Public\Documents\Model\RiA_Performance_Test\DefaultComponent\DefaultConfig\DefaultComponent.bat =================================
@@ -75,13 +75,13 @@ Days              : 0
 Hours             : 0
 Minutes           : 0
 Seconds           : 1
-Milliseconds      : 24
-Ticks             : 10244802
-TotalDays         : 1.18574097222222E-05
-TotalHours        : 0.000284577833333333
-TotalMinutes      : 0.01707467
-TotalSeconds      : 1.0244802
-TotalMilliseconds : 1024.4802
+Milliseconds      : 32
+Ticks             : 10322144
+TotalDays         : 1.19469259259259E-05
+TotalHours        : 0.000286726222222222
+TotalMinutes      : 0.0172035733333333
+TotalSeconds      : 1.0322144
+TotalMilliseconds : 1032.2144
 
 ====================================== END of process: C:\Users\Public\Documents\Model\RiA_Performance_Test\DefaultComponent\DefaultConfig\DefaultComponent.bat =================================
 

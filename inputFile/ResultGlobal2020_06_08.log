@@ -1,0 +1,37 @@
+======================================================
+RhpVersion: 841
+ModelToMigrate: 485233
+RiA_Performance_Test: 28627
+NewsChecks: 288319
+ECUExtract: 1021
+lunchExportImport: 89576
+======================================================
+RhpVersion: 90
+ModelToMigrate: 454650
+RiA_Performance_Test: 132997
+NewsChecks: 266858
+ECUExtract: 1049
+lunchExportImport: 127680
+======================================================
+RhpVersion: 901
+ModelToMigrate: 410393
+RiA_Performance_Test: 1032
+NewsChecks: 230069
+ECUExtract: 1036
+lunchExportImport: 96594
+======================================================
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Calcule to 841 - 901
+ModelToMigrate: 18%
+RiA_Performance_Test: 2673%
+NewsChecks: 25%
+ECUExtract: -1%
+lunchExportImport: -7%
+------------------------------------------------------
+Calcule to 90 - 901
+ModelToMigrate: 10%
+RiA_Performance_Test: 12787%
+NewsChecks: 15%
+ECUExtract: 1%
+lunchExportImport: 32%
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
