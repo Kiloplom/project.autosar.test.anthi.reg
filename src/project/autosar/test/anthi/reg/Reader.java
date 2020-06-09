@@ -36,7 +36,7 @@ public class Reader {
 	public static void main(String[] args) {
 		DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd_MM_yyyy");
 		LocalDate localDate = LocalDate.now();
-		String pathDirResult = "G:\\Shared drives\\Projects\\Rhapsody\\AUTOSAR\\AnthiRegTest\\Result_lastest\\";
+		String pathDirResult = "G:\\Shared drives\\Projects\\Rhapsody\\AUTOSAR\\IBM\\Project_Management\\AthiRegTests\\Result_lastest\\";
 		Reader reader = getResultFromFile(pathDirResult);
         reader.writingTxtResult(pathDirResult + "ResultGlobal_" + dtf.format(localDate) + ".log");
         
